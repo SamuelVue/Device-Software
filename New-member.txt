@@ -3,3 +3,4 @@ Java can be dundant in most senrios
 Learn rigirously 
 Don't ever relent in the rise because you have already started the journey
 I'm now learning git and github 
+You can still keep adding all your changes 
